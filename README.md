@@ -20,5 +20,6 @@ Three-File Structure (header, implementation, main)
 The project consists of three main files:
 Student.h - Class declaration
 Student.cpp - Class implementation
-main.cpp - Main program and testing
+main.cpp - Main program and testings
+
 
